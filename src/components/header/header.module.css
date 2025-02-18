@@ -1,0 +1,11 @@
+/*
+    Nomeando o arquivo com module ex: header.module.css, faz com que as class seja chamada somente dentro do componente
+*/
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    max-width: 1080px;
+}
